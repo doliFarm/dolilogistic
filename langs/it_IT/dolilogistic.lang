@@ -19,8 +19,7 @@
 
 # Module label 'ModuleDoliLogisticName'
 ModuleDoliLogisticName = DoliLogistic
-# Module description 'ModuleDoliLogisticDesc'
-ModuleDoliLogisticDesc = DoliLogistic description
+ModuleDoliLogisticDesc = DoliLogistic per la logistica di una Azienda Agricola: Ordini di produzione, generazione di CMR, etc
 
 #
 # Admin page
